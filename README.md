@@ -1,2 +1,2 @@
-# ETS2-mod-myBank
+# ETS2-mod-myBANK
 Customised economic data for ETS2
